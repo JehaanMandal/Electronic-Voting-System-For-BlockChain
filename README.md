@@ -1,6 +1,6 @@
 # Electronic-Voting-System-For-BlockChain
 
-We have submitted our project in PROJECT REPORT section.
+We have submitted our project in PROJECT REPORT section..
 
 Team ID : NM2023TMID11339
 
